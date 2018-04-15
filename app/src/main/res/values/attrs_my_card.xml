@@ -1,0 +1,7 @@
+<resources>
+    <declare-styleable name="MyCard">
+        <attr name="cardText" format="string" />
+        <attr name="cardImage" format="string" />
+        <attr name="cardButton" format="string" />
+    </declare-styleable>
+</resources>
